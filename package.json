@@ -15,6 +15,7 @@
     "pokeapi-js-wrapper": "^1.2.0",
     "react": "17.0.2",
     "react-dom": "17.0.2",
+    "react-infinite-scroll-component": "^6.1.0",
     "sass": "^1.35.2"
   },
   "devDependencies": {
